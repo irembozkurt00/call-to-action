@@ -1,0 +1,30 @@
+body {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.box {
+  width: 1110px;
+  height: 349px;
+  border-radius: 12px;
+  display: flex;
+  background-color: #121212;
+  align-items: center;
+  justify-content: center;
+  gap: 76px;
+  padding: 0;
+  margin: 0;
+}
+
+.button {
+  background-color: #DC3545;
+  font-family:'Montserrat', sans-serif;
+  font-size: 23px;
+  line-height: 32px;
+  font-weight: 600;
+  color: #ffffff;
+  border-radius: 3px;
+  stroke: none;
+  padding: 16px;
+  width: 280px;
+}
