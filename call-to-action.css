@@ -8,14 +8,26 @@ body {
   height: 349px;
   border-radius: 12px;
   display: flex;
+  background-image: url(./assets/img/call.png);
   background-color: #121212;
-  align-items: center;
-  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  background-position: right 60px bottom 0px;
   gap: 76px;
-  padding: 0;
+  
   margin: 0;
 }
 
+.paragraf{
+  width: 508px; 
+  padding-left: 96px;
+  padding-top: 83px;
+  gap: 24px;
+  padding-bottom: 82px;
+
+  }
+   
+    
 .button {
   background-color: #DC3545;
   font-family:'Montserrat', sans-serif;
